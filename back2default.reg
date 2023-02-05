@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; Alyrezo
+; https://twitter.com/alyrezo
+; https://github.com/alyrezo
+
+[-HKEY_CLASSES_ROOT\*\shell\runas]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\runas]
